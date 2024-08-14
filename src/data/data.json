@@ -1,0 +1,49 @@
+{
+  "homepageItems": [
+    {
+      "handle": "",
+      "productName": "Nothing Phone 2a",
+      "title": "Nothing Phone 2a",
+      "featuredImage": {
+        "url": "",
+        "alt": ""
+      },
+      "priceRange": {
+        "max": "",
+        "amount": "",
+        "discount": "",
+        "currencyCode": ""
+      }
+    },
+    {
+      "handle": "",
+      "productName": "Rabbit R1",
+      "title": "Rabbit R1",
+      "featuredImage": {
+        "url": "",
+        "alt": ""
+      },
+      "priceRange": {
+        "max": "",
+        "amount": "",
+        "discount": "",
+        "currencyCode": ""
+      }
+    },
+    {
+      "handle": "",
+      "productName": "GameBoy",
+      "title": "GameBoy",
+      "featuredImage": {
+        "url": "",
+        "alt": ""
+      },
+      "priceRange": {
+        "max": "",
+        "amount": "",
+        "discount": "",
+        "currencyCode": ""
+      }
+    }
+  ]
+}
