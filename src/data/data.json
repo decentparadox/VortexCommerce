@@ -1,20 +1,20 @@
 {
   "homepageItems": [
     {
-      "handle": "",
-      "productName": "Nothing Phone 2a",
-      "title": "Nothing Phone 2a",
-      "featuredImage": {
-        "url": "",
-        "alt": ""
+        "handle": "nothing-phone-2a",
+        "productName": "Nothing Phone 2a",
+        "title": "Nothing Phone 2a",
+        "featuredImage": {
+          "url": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1722857047/Croma%20Assets/Communication/Mobiles/Images/308988_0_kmllpc.png?tr=w-640",
+          "alt": "Nothing phone 2a"
+        },
+        "priceRange": {
+          "max": "28000",
+          "amount": "26000",
+          "discount": "2000",
+          "currencyCode": "INR"
+        }
       },
-      "priceRange": {
-        "max": "",
-        "amount": "",
-        "discount": "",
-        "currencyCode": ""
-      }
-    },
     {
       "handle": "",
       "productName": "Rabbit R1",
@@ -27,7 +27,7 @@
         "max": "",
         "amount": "",
         "discount": "",
-        "currencyCode": ""
+        "currencyCode": "INR"
       }
     },
     {
@@ -42,25 +42,35 @@
         "max": "",
         "amount": "",
         "discount": "",
-        "currencyCode": ""
+        "currencyCode": "INR"
       }
     }
   ],
   "products":[
     {
-        "handle": "",
+        "handle": "nothing-phone-2a",
         "productName": "Nothing Phone 2a",
         "title": "Nothing Phone 2a",
         "featuredImage": {
-          "url": "",
-          "alt": ""
+          "url": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1722857047/Croma%20Assets/Communication/Mobiles/Images/308988_0_kmllpc.png?tr=w-640",
+          "alt": "Nothing phone 2a"
         },
         "priceRange": {
-          "max": "",
-          "amount": "",
-          "discount": "",
-          "currencyCode": ""
-        }
+          "max": "28000",
+          "amount": "26000",
+          "discount": "2000",
+          "currencyCode": "INR"
+        },
+        "images":[
+            {
+                "url":"https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1722857047/Croma%20Assets/Communication/Mobiles/Images/308988_0_kmllpc.png?tr=w-640",
+                "alt":""
+            },
+            {
+                "url":"https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1722857052/Croma%20Assets/Communication/Mobiles/Images/308988_9_bo6oxl.png?tr=w-640",
+                "alt":""
+            }
+        ]
       },
       {
         "handle": "",
@@ -74,8 +84,18 @@
           "max": "",
           "amount": "",
           "discount": "",
-          "currencyCode": ""
-        }
+          "currencyCode": "INR"
+        },
+        "images":[
+            {
+                "url":"",
+                "alt":""
+            },
+            {
+                "url":"",
+                "alt":""
+            }
+        ]
       },
       {
         "handle": "",
@@ -89,8 +109,18 @@
           "max": "",
           "amount": "",
           "discount": "",
-          "currencyCode": ""
-        }
+          "currencyCode": "INR"
+        },
+        "images":[
+            {
+                "url":"",
+                "alt":""
+            },
+            {
+                "url":"",
+                "alt":""
+            }
+        ]
       },
       {
         "handle": "",
@@ -104,8 +134,18 @@
           "max": "",
           "amount": "",
           "discount": "",
-          "currencyCode": ""
-        }
+          "currencyCode": "INR"
+        },
+        "images":[
+            {
+                "url":"",
+                "alt":""
+            },
+            {
+                "url":"",
+                "alt":""
+            }
+        ]
       }
   ]
 }

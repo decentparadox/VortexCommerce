@@ -49,8 +49,8 @@ export async function ThreeItemGrid() {
 
   return (
     <section className="mx-auto grid max-w-screen-2xl gap-4 px-2 py-4 bg-[#1F1F21]/50 md:grid-cols-6 md:grid-rows-2 lg:max-h-[calc(100vh-200px)]">
-      <ThreeItemGridItem size="half" item={firstProduct} priority={true} />
-      <ThreeItemGridItem size="full" item={secondProduct} priority={true} />
+      <ThreeItemGridItem size="full" item={firstProduct} priority={true} />
+      <ThreeItemGridItem size="half" item={secondProduct} priority={true} />
       <ThreeItemGridItem size="half" item={thirdProduct} />
     </section>
   );
