@@ -45,5 +45,67 @@
         "currencyCode": ""
       }
     }
+  ],
+  "products":[
+    {
+        "handle": "",
+        "productName": "Nothing Phone 2a",
+        "title": "Nothing Phone 2a",
+        "featuredImage": {
+          "url": "",
+          "alt": ""
+        },
+        "priceRange": {
+          "max": "",
+          "amount": "",
+          "discount": "",
+          "currencyCode": ""
+        }
+      },
+      {
+        "handle": "",
+        "productName": "Nothing Phone 2a",
+        "title": "Nothing Phone 2a",
+        "featuredImage": {
+          "url": "",
+          "alt": ""
+        },
+        "priceRange": {
+          "max": "",
+          "amount": "",
+          "discount": "",
+          "currencyCode": ""
+        }
+      },
+      {
+        "handle": "",
+        "productName": "Nothing Phone 2a",
+        "title": "Nothing Phone 2a",
+        "featuredImage": {
+          "url": "",
+          "alt": ""
+        },
+        "priceRange": {
+          "max": "",
+          "amount": "",
+          "discount": "",
+          "currencyCode": ""
+        }
+      },
+      {
+        "handle": "",
+        "productName": "Nothing Phone 2a",
+        "title": "Nothing Phone 2a",
+        "featuredImage": {
+          "url": "",
+          "alt": ""
+        },
+        "priceRange": {
+          "max": "",
+          "amount": "",
+          "discount": "",
+          "currencyCode": ""
+        }
+      }
   ]
 }

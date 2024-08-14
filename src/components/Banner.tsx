@@ -9,7 +9,7 @@ const Marquee = () => {
 
     const tween = gsap.to("#marquee__part", {
       xPercent: -100,
-      repeat: -1,
+      repeat: 1,
       duration: 10,
       ease: "linear",
     });

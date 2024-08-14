@@ -25,6 +25,33 @@ body {
   background: #1F1F21;
   font-family: "spaceGrotesk";
 }
+*{
+  scrollbar-width: thin;
+  scrollbar-color: #7AFFC7 #1f2021;
+}
+*::-webkit-scrollbar {
+  width: 17px;
+}
+
+*::-webkit-scrollbar-track {
+  background: #7AFFC7;
+  border-radius: 5px;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #1f2021;
+  border-radius: 14px;
+  border: 3px solid #7AFFC7;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: var(--tertiary);
+}
+.footer-text {
+  background: -webkit-linear-gradient(#7AFFC7, #1F1F21);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
 
 @layer utilities {
   .text-balance {

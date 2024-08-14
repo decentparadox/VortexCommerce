@@ -27,10 +27,10 @@ const Footer = () => {
             <Logo />
           </div>
           <div className="self-stretch relative text-[16px] leading-[118.46%] font-medium shrink-0 mq450:text-lgi mq450:leading-[23px]">
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s, when an unknown printer took a galley of type
-            and scrambled it to make a type specimen book.
+            Your one-stop destination for cutting-edge tech products and
+            innovative electronics. Stay ahead with Vortex, where the future is
+            now. Connect with us on social media for the latest updates and
+            exclusive deals!
           </div>
           <div className="text-[14px] opacity-40">
             Designed and Developed by{" "}
@@ -82,11 +82,8 @@ const Footer = () => {
       </section>
       <div
         className={`w-full max-w-full footer-text `}
-        style={{ fontFamily: "var(--accentFont)" }}
       >
-        <h1 id="tobefitted" className="whitespace-none">
-          vortex
-        </h1>
+        <h1 id="tobefitted">vortex</h1>
       </div>
     </div>
   );

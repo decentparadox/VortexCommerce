@@ -1,4 +1,6 @@
+import { ShoppingBag } from 'lucide-react';
 const Navbar = () => {
+
   return (
     <div className="w-full h-16 bg-[#E0FFF4] text-[#1F1F21] flex items-center justify-between">
       <div className="w-full h-full flex items-center justify-between">
@@ -43,14 +45,14 @@ const Navbar = () => {
         </svg>
       </div>
       <div className="h-full flex gap-4 items-center ">
-        <div className="flex gap-4 font-semibold">
+        <div className="hidden md:flex gap-4 font-semibold">
             <p>Contact us</p>
             <p>About brand</p>
             <p>Collection</p>
         </div>
         <div className="flex gap-4 h-full">
             <button className="bg-[#1F1F21] h-full text-[#E0FFF4] py-2 px-4">                
-            Cart
+            <ShoppingBag />
             </button>
         </div>
       </div>
