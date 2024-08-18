@@ -31,7 +31,7 @@ const CartButton = () => {
             <div className='absolute top-8 right-1 text-white rounded-full bg-blue-700 w-5 h-5 text-sm -ml-1'>{cart?.length}</div>
           </button>
         </SheetTrigger>
-        <SheetContent side="left">
+        <SheetContent >
           <SheetHeader>
             <SheetTitle>Cart</SheetTitle>
           </SheetHeader>
