@@ -1,13 +1,8 @@
 export type Image = {
     url: string;
-    altText: string;
-    width: number;
-    height: number;
+    alt: string;
   };
-export type Product = {
-    variants: ProductVariant[];
-    images: Image[];
-  };
+
   
   export type ProductOption = {
     id: string;
@@ -15,7 +10,8 @@ export type Product = {
     values: string[];
   };
   
-  export type ProductVariant = {
+  export type Product = {
+    handle: string;
     id: string;
     title: string;
     availableForSale: boolean;
@@ -23,10 +19,12 @@ export type Product = {
       name: string;
       value: string;
     }[];
-    price: Money;
+    featuredImage: Image;
+    priceRange: Money;
+    quantity: number;
   };
   
   export type Money = {
-    amount: string;
+    amount: number;
     currencyCode: string;
   };

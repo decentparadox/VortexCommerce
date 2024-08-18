@@ -8,40 +8,44 @@
           "url": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1722857047/Croma%20Assets/Communication/Mobiles/Images/308988_0_kmllpc.png?tr=w-640",
           "alt": "Nothing phone 2a"
         },
+        "quantity": 1,
         "priceRange": {
           "max": "28000",
-          "amount": "26000",
+          "amount": 26000,
           "discount": "2000",
           "currencyCode": "INR"
         }
       },
     {
-      "handle": "",
-      "productName": "Rabbit R1",
-      "title": "Rabbit R1",
+      "handle": "nothing-cmf-phone-1",
+      "productName": "Nothing CMF Phone 1",
+      "title": "Nothing CMF Phone 1",
       "featuredImage": {
-        "url": "",
-        "alt": ""
+        "url": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1720678979/Croma%20Assets/Communication/Mobiles/Images/308340_0_cefn3i.png?tr=w-640",
+        "alt": "CMF phone 1"
       },
+      "quantity": 1,
       "priceRange": {
         "max": "",
-        "amount": "",
+        "amount": 18000,
         "discount": "",
         "currencyCode": "INR"
       }
     },
+    
     {
-      "handle": "",
-      "productName": "GameBoy",
-      "title": "GameBoy",
+      "handle": "nothing-phone-2",
+      "productName": "Nothing Phone 2",
+      "title": "Nothing Phone 2",
       "featuredImage": {
-        "url": "",
+        "url": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1708679074/Croma%20Assets/Communication/Mobiles/Images/301918_0_f3f5jq.png?tr=w-640",
         "alt": ""
       },
+      "quantity": 1,
       "priceRange": {
-        "max": "",
-        "amount": "",
-        "discount": "",
+        "max": "40000",
+        "amount": 37000,
+        "discount": "3000",
         "currencyCode": "INR"
       }
     }
@@ -55,9 +59,10 @@
           "url": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1722857047/Croma%20Assets/Communication/Mobiles/Images/308988_0_kmllpc.png?tr=w-640",
           "alt": "Nothing phone 2a"
         },
+        "quantity": 1,
         "priceRange": {
           "max": "28000",
-          "amount": "26000",
+          "amount": 26000,
           "discount": "2000",
           "currencyCode": "INR"
         },
@@ -73,76 +78,53 @@
         ]
       },
       {
-        "handle": "",
-        "productName": "Nothing Phone 2a",
-        "title": "Nothing Phone 2a",
+        "handle": "nothing-cmf-phone-1",
+        "productName": "Nothing CMF Phone 1",
+        "title": "Nothing CMF Phone 1",
         "featuredImage": {
-          "url": "",
-          "alt": ""
+          "url": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1720678979/Croma%20Assets/Communication/Mobiles/Images/308340_0_cefn3i.png?tr=w-640",
+          "alt": "CMF phone 1"
         },
+        "quantity": 1,
         "priceRange": {
-          "max": "",
-          "amount": "",
-          "discount": "",
+          "max": "20000",
+          "amount": 18000,
+          "discount": "2000",
           "currencyCode": "INR"
         },
         "images":[
             {
-                "url":"",
+                "url":"https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1720678979/Croma%20Assets/Communication/Mobiles/Images/308340_0_cefn3i.png?tr=w-640",
                 "alt":""
             },
             {
-                "url":"",
+                "url":"https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1721631614/308340_1_vzooyg.png?tr=w-640",
                 "alt":""
             }
         ]
       },
       {
-        "handle": "",
-        "productName": "Nothing Phone 2a",
-        "title": "Nothing Phone 2a",
+        "handle": "nothing-phone-2",
+        "productName": "Nothing Phone 2",
+        "title": "Nothing Phone 2",
         "featuredImage": {
-          "url": "",
+          "url": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1708679074/Croma%20Assets/Communication/Mobiles/Images/301918_0_f3f5jq.png?tr=w-640",
           "alt": ""
         },
+        "quantity": 1,
         "priceRange": {
-          "max": "",
-          "amount": "",
-          "discount": "",
+          "max": "40000",
+          "amount": 37000,
+          "discount": "3000",
           "currencyCode": "INR"
         },
         "images":[
             {
-                "url":"",
+                "url":"https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1708679074/Croma%20Assets/Communication/Mobiles/Images/301918_0_f3f5jq.png?tr=w-640",
                 "alt":""
             },
             {
-                "url":"",
-                "alt":""
-            }
-        ]
-      },
-      {
-        "handle": "",
-        "productName": "Nothing Phone 2a",
-        "title": "Nothing Phone 2a",
-        "featuredImage": {
-          "url": "",
-          "alt": ""
-        },
-        "priceRange": {
-          "max": "",
-          "amount": "",
-          "discount": "",
-          "currencyCode": "INR"
-        },
-        "images":[
-            {
-                "url":"",
-                "alt":""
-            },
-            {
-                "url":"",
+                "url":"https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1721631614/308340_1_vzooyg.png?tr=w-640",
                 "alt":""
             }
         ]
